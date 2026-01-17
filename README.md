@@ -38,6 +38,13 @@ Python | C++ | OpenCV | Arduino IDE | 3D Camera (Intel Realsense) | blender
 - Improved understanding of applying engineering and computer vision concepts to real-world agricultural problems
 - Learned to design a system that integrates hardware and software for practical industrial use
 
+## 📜 Prototype
+<div align="center">
+  <img src="https://github.com/Wisawathep/Cup_Lump_Rubber_3D/blob/main/Prototype.png" height="600"  />
+  <img width="12" />
+  <img src="https://github.com/Wisawathep/Cup_Lump_Rubber_3D/blob/main/Scanned%20Rubber%20Model.png" height="600"  />
+</div>
+
 ***
 
 <h5 align="center">COMPUTER ENGINEERING<br>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK, A.Y. 2023/27</h5>
